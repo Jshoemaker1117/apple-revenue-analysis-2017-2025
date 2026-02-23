@@ -1,0 +1,11 @@
+fiscal_year,iphone_net_sales_usd,mac_net_sales_usd,ipad_net_sales_usd,wearables_home_accessories_net_sales_usd,services_net_sales_usd,total_net_sales_usd,source_filing
+2017,139337,25569,18802,12826,32700,229234,Apple Inc. Form 10-K (Fiscal Year 2017)
+2018,164888,25198,18380,17381,39748,265595,Apple Inc. Form 10-K (Fiscal Year 2018)
+2019,142381,25740,21280,24482,46291,260174,Apple Inc. Form 10-K (Fiscal Year 2019)
+2020,137781,28622,23724,30620,53768,274515,Apple Inc. Form 10-K (Fiscal Year 2020)
+2021,191973,35190,31862,38367,68425,365817,Apple Inc. Form 10-K (Fiscal Year 2021)
+2022,205489,40177,29292,41241,78129,394328,Apple Inc. Form 10-K (Fiscal Year 2022)
+2023,200583,29357,28300,39845,85200,383285,Apple Inc. Form 10-K (Fiscal Year 2023)
+2024,201183,29984,26694,37005,96169,391035,Apple Inc. Form 10-K (Fiscal Year 2024)
+2025,209586,33708,28023,35686,109158,416161,Apple Inc. Form 10-K (Fiscal Year 2025)
+source_url,SEC 10-K Filing,,,,,,
